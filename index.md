@@ -21,3 +21,6 @@ Combines Strava data and the motivational quote, then sends a formatted message 
 
 ## 📲 Example Telegram Message
 ![Image](https://github.com/user-attachments/assets/ca41da15-ddc1-4bea-97ce-df3f192d0238)
+
+
+Back to [Project portfolio](https://cheeweeng.github.io/)
